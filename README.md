@@ -29,7 +29,7 @@ Whether you are conducting a Web Application test, a Network assessment, or a Re
 * Rules of Engagement (RoE) templates.
 * Legal and logistical requirements.
 
-### 2. Intelligence Gathering (OSINT)
+### 2. Intelligence Gathering 
 * Passive and Active reconnaissance workflows.
 * Target mapping and asset discovery techniques.
 
