@@ -29,7 +29,7 @@ Seja conduzindo um teste em Aplicação Web, uma análise de Rede ou uma operaç
 * Modelos de Regras de Engajamento (RoE).
 * Requisitos legais e logísticos.
 
-### 2. Intelligence Gathering (OSINT)
+### 2. Intelligence Gathering 
 * Fluxos de reconhecimento Passivo e Ativo.
 * Mapeamento de alvos e descoberta de ativos.
 
