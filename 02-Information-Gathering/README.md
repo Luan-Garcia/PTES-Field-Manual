@@ -1,7 +1,7 @@
 # Information Gathering / Coleta de Informações
 
 > **PTES Phase:** Information Gathering  
-> **Goal:** Map the entire attack surface. "You cannot hack what you cannot see."
+> **Goal:** Map the entire attack surface. "You cannot test what you cannot see."
 
 <div align="center">
   <a href="#-english-version">🇺🇸 English Version</a> | 
