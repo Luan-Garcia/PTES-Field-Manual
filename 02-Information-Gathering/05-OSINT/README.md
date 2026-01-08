@@ -1,6 +1,6 @@
 # OSINT (Open Source Intelligence)
 
-> **Definition:** The act of seeking publicly available information.
+> **Definition:** The act of seeking publicly available information. \n
 > **Goal:** Collect potentially valuable or confidential information about the target, turning raw data into actionable intelligence.
 
 <div align="center">
