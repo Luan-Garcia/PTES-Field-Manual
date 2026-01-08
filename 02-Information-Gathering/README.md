@@ -58,12 +58,12 @@ Reconnaissance can be infinite. You know you are done when:
 3.  **Scope Saturation:** All IP ranges and Domains have been mapped.
 
 ### Directory Structure
-* **01-Business_Intelligence**: Foco na **Organização** (ASN, Fusões).
-* **02-Infrastructure**: Foco na **Rede** (DNS, Portas).
-* **03-Web_Analysis**: Foco na **Aplicação** (Tecnologias, WAF).
-* **04-Cloud_and_Leakage**: Foco em **Ativos Modernos** (S3, Git).
-* **05-OSINT**: Foco em **Pessoas e Dados** (Emails, Metadados).
-* **scripts/**: Scripts de automação personalizados.
+* **01-Business_Intelligence**: Focus on **Organization** (ASN, Mergers).
+* **02-Infrastructure**: Focus on **Network** (DNS, Ports).
+* **03-Web_Analysis**: Focus on **Application** (Technologies, WAF).
+* **04-Cloud_and_Leakage**: Focus on **Modern Assets** (S3, Git).
+* **05-OSINT**: Focus on **People and Data** (Emails, Metadados).
+* **scripts/**: Customized automation scripts.
 
 ---
 
