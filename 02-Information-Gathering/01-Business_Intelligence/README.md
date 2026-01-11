@@ -1,6 +1,6 @@
 # Business Intelligence / Inteligência de Negócio
 
-> **Goal:** Expand the scope horizontally. Find subsidiaries, acquisitions, and netblocks owned by the target.
+> **Goal:** Expand the scope horizontally. Find subsidiaries, acquisitions, and netblocks owned by the target. <br>
 > **Golden Rule:** "A chain is only as strong as its weakest link (usually a recently acquired subsidiary)."
 
 <div align="center">
